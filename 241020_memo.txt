@@ -1,0 +1,54 @@
+セキュリティ研修のお願い
+セキュリティ研修の案内が来ましたが、セキュアドPCからしかアクセスできないかもしれないので、やった事にしてください。Form回答等は江森から実施しておきます。教材がダウンロードできそうなら公開します。（後ほど確認します）
+====
+@TX-emori
+ 
+TXのプロジェクト参加メンバーへ下記の研修の受講、テスト、アンケート
+の実施をお願いします
+ 
+テストやアンケートで、所属組織を聞かれた場合
+・NIC　ネットワーク　イノベーション　センタ
+・NトP
+で回答願います
+ 
+セキュアドPCからは、下記のURLへアクセスできると思います
+12/20(金) までの受講完了をお願いします
+ 
+\Box\OMW\委託メンバ全体共有\AT\3.PJメンバー一覧
+ALL_OMW_2024プロジェクトメンバ_20240902.xlsx
+メンバ一覧　シートのQ列へ完了したら、◯　を入れてください
+よろしくお願いします
+ 
+ーーーー
+R&D情報セキュリティ研修の受講依頼です。対象者は全員、研修は下述の①②③です。
+12/20(金) までの受講完了をお願いいたします。
+皆様の受講が完了しましたら、（対象者数/完了者数）をお知らせください。
+BOXの研修テキストやアンケートURLへアクセスできない等ありましたら、お手数ですがお知らせください。
+①研修テキスト
+<情報システム・セキュリティポータル　２．R＆D情報セキュリティ研修>
+日本語：https://it-portal.hst.ecl.groupis-gn.ntt/wp-content/uploads/download/sc072/RD_InformationSecurityTraining_Textbook_JP.pdf
+英　語：https://it-portal.hst.ecl.groupis-gn.ntt/wp-content/uploads/download/sc072/RD_InformationSecurityTraining_Textbook_EN.pdf
+※上記、以下にも配置しております。
+　https://ntt-rd.box.com/s/c51uo61xs8ps7x8vab57n0c54hcspyg7
+ 
+②研修テスト
+<MS Forms　R＆D情報セキュリティ研修テスト (2024)>
+日本語：https://forms.office.com/Pages/ResponsePage.aspx?id=Mu8pprpnpkeOs-xDk1ZE_AuC7SfDgolMiK-6VbvJu5NUNkw2TENYQjFRSU5QMU5VU0tXOE5FS1ZEOS4u
+英　語：https://forms.office.com/Pages/ResponsePage.aspx?id=Mu8pprpnpkeOs-xDk1ZE_AuC7SfDgolMiK-6VbvJu5NUMDNJVUYzRjVINzJYS0hBTUhKVk1MSE5RMi4u
+ 
+③研修アンケート
+<MS Forms　R＆D情報セキュリティ研修アンケート (2024)>
+日本語、英語共に下記URLから回答が可能です。
+https://forms.office.com/Pages/ResponsePage.aspx?id=Mu8pprpnpkeOs-xDk1ZE_AuC7SfDgolMiK-6VbvJu5NUN0FNWFpRWkZORlgxSTlHUTdRVjZVRlZWMC4u
+ 
+
+
+@TX-emori
+②研修テスト,③研修アンケート
+は、セキュアドPCで、アカウントをB20xxxxx@coe.ntt.com を選択して
+回答願います
+ 
+回答の保存して編集
+回答を保存
+ 
+まで実行願います （編集済み）
